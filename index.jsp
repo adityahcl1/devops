@@ -1,12 +1,10 @@
 <html>
-<head>
-<title>JSP Test</title>
-<%!
-String message = "Wecome to the Dev Instacne portal.";
-%>
-</head>
-<body>
-<h2><%= message%></h2>
-<%= new java.util.Date() %>
-</body>
+   <head><title>Hello World</title></head>
+   
+   <body>
+      Hello World!<br/>
+      <%
+         out.println("Your IP address is " + request.getRemoteAddr());
+      %>
+   </body>
 </html>
