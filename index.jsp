@@ -4,7 +4,6 @@
 <title>JSP Test</title>
 <%!
 String message = "welcome to the first demo project.";
-String message = "Aditya Ranjan";
 %>
 </head>
 <body>
