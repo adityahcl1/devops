@@ -4,6 +4,6 @@
 <title>Hello World Example</title>
 </head>
 <body>
-<h2>A Hello World Example of JSP.</h2>
+<h2>A Hello World Example by Aditya Ranjan.</h2>
 </body>
 </html>
